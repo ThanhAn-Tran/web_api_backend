@@ -65,3 +65,10 @@ uvicorn app.main:app --reload
 
 ## 🔗 Frontend (Flutter)
 https://github.com/ThanhAn-Tran/web_selling_chatbot.git
+
+---
+
+## 🎥 Demo
+
+▶️ Watch the video demo here:  
+[Smart Shopping Chatbot Demo – YouTube](https://youtube.com/shorts/YTPVJ-bAWgM?feature=share)
