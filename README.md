@@ -65,10 +65,5 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📝 License
-MIT
-
----
-
 ## 🔗 Frontend (Flutter)
-> **[Replace this with your Flutter frontend repo link after pushing]** 
+> **[[Replace this with your Flutter frontend repo link after pushing](https://github.com/ThanhAn-Tran/web_selling_chatbot.git)]** 
