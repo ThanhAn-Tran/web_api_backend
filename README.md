@@ -60,7 +60,6 @@ uvicorn app.main:app --reload
 - User authentication (JWT)
 - Product catalog & search
 - Cart & order management
-- Payments (Momo, COD, Credit Card, ZaloPay)
 - AI chatbot (OpenAI GPT, context-aware)
 
 ---
