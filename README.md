@@ -57,7 +57,6 @@ uvicorn app.main:app --reload
 ---
 
 ## 🧠 Key Features
-- User authentication (JWT)
 - Product catalog & search
 - Cart & order management
 - AI chatbot (OpenAI GPT, context-aware)
